@@ -1,0 +1,26 @@
+.menu{
+    font-family: Arial;
+}
+.menu ul{
+    display: flex;
+    justify-content: space-around;
+}
+.menu li{
+    list-style: none;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+  }
+.site-title{
+    color: blue;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+}
+.site-subtitle{
+    color: orange;
+}
